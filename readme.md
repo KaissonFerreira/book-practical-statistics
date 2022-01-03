@@ -1,7 +1,7 @@
 <img src="/docs/figures/1.png" alt="my logo"/>
 ---
 
-# Book: Pratical Estatistics for Data Scientists
+# Book: Practical Statistics for Data Scientists
 
 ---
 Nesse livro serão abordados diversas técnicas e métodos estatísticos para fazer análises de dados mais acuradas. Além disso, o conteúdo aqui estudado será 100% aplicado com simulações de problemas reais.
