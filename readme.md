@@ -1,5 +1,6 @@
 <img src="/docs/figures/1.png" alt="my logo"/>
 ---
+
 # Book: Pratical Estatistics for Data Scientists
 
 ---
